@@ -1,0 +1,1 @@
+img{width:100%;height:auto}.img-wrap{overflow-x:scroll;width:500px;max-width:100%;cursor:-webkit-grab;cursor:grab}.img-wrap:active{cursor:-webkit-grabbing;cursor:grabbing}.img-wrap::-webkit-scrollbar{display:none;height:0}.img img{width:auto;height:300px;max-width:none}button{font-size:16px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}

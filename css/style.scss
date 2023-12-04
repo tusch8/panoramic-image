@@ -1,0 +1,33 @@
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+.img-wrap {
+	overflow-x: scroll;
+	-webkit-overflow-scrolling: touch;
+	width: 500px;
+	max-width: 100%;
+	cursor: grab;
+	&:active {
+		cursor: grabbing;
+	}
+	&::-webkit-scrollbar {
+		display: none;
+		height: 0;
+	}
+}
+
+.img {
+	img {
+		width: auto;
+		height: 300px;
+		max-width: none;
+	}
+}
+
+button {
+	font-size: 16px;
+	user-select: none;
+}
