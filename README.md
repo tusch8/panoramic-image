@@ -6,5 +6,5 @@
 ドラッグにも対応
 
 ## デモ
-https://inaro8.github.io/panoramic-image/
+https://tusch8.github.io/panoramic-image/
 
